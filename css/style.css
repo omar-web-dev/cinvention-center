@@ -1,0 +1,20 @@
+h3{
+    font-size: 48px !important;
+}
+p{
+    font-size: 16px !important;
+}
+.slider .my-btn, .my-btn:active, .my-btn:focus{
+    outline: 0;
+    border: 0;
+    background-color: #1B98F5;
+    color:#fff ;
+    margin-bottom: 15px;
+}
+.slider .my-carousel-caption{
+    right: 19%;
+    left: 19%;
+}
+.slider .my-carousel-caption p{
+    padding: 0 21%;
+}
